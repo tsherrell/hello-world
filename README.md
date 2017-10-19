@@ -1,2 +1,5 @@
 # hello-world
-Trent's Hello World repository.
+
+Hello Everyone!
+
+My name is Trent and I am a UX Architect.
